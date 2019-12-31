@@ -1,38 +1,69 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo|Jua&display=swap');
+
+.out{
+  width: 100%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.in{
+  /* margin-top:5%; */
+  display: inline-block;
+  padding:30px;
+  /* border: 1px solid black;
+  border-radius: 5px; */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.hangleLeftGuide{
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 50px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.nextButton {
+  font-family: 'Jua', sans-serif;
+  padding:5px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.time{
+  font-family: 'Jua', sans-serif;
+  color:#595959;
+  /* color:#808080; */
+  font-size:50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.hangleTime{
+  font-family: 'Jua', sans-serif;
+  font-size:30px;
+}
+
+.percent{
+  font-family: 'Jua', sans-serif;
+  font-size:30px;
+  color:#595959;
+}
+
+.solStart{
+  font-family: 'Jua', sans-serif;
+}
+
+.classIn{
+  margin-top:5%;
+  display: inline-block;
+  padding:30px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.cUp{
+  font-family: 'Jua', sans-serif;
+}
+
+.ctime{
+  font-family: 'Jua', sans-serif;
+  color:#333333;
+}
+
+.changleTime{
+  font-family: 'Jua', sans-serif;
 }
