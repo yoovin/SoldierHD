@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SoldierHD/static/css/main.fe21a7bc.chunk.css",
+    "main.js": "/SoldierHD/static/js/main.5030f2c5.chunk.js",
+    "main.js.map": "/SoldierHD/static/js/main.5030f2c5.chunk.js.map",
+    "runtime-main.js": "/SoldierHD/static/js/runtime-main.c31fccee.js",
+    "runtime-main.js.map": "/SoldierHD/static/js/runtime-main.c31fccee.js.map",
+    "static/js/2.6d42eb66.chunk.js": "/SoldierHD/static/js/2.6d42eb66.chunk.js",
+    "static/js/2.6d42eb66.chunk.js.map": "/SoldierHD/static/js/2.6d42eb66.chunk.js.map",
+    "index.html": "/SoldierHD/index.html",
+    "precache-manifest.a9255a5ba547d6b6771aa96814f18f6e.js": "/SoldierHD/precache-manifest.a9255a5ba547d6b6771aa96814f18f6e.js",
+    "service-worker.js": "/SoldierHD/service-worker.js",
+    "static/css/main.fe21a7bc.chunk.css.map": "/SoldierHD/static/css/main.fe21a7bc.chunk.css.map",
+    "static/js/2.6d42eb66.chunk.js.LICENSE": "/SoldierHD/static/js/2.6d42eb66.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31fccee.js",
+    "static/js/2.6d42eb66.chunk.js",
+    "static/css/main.fe21a7bc.chunk.css",
+    "static/js/main.5030f2c5.chunk.js"
+  ]
+}
